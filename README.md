@@ -102,6 +102,8 @@ src/
 
 ## 链接
 
+- GitHub public 仓库：[12-axes-political-test](https://github.com/tonglovely1314-hub/12-axes-political-test)
+
 - 官网地址：[12axespoliticaltest.org](https://12axespoliticaltest.org/)
 - 测试入口：[开始标准测试](https://12axespoliticaltest.org/#test)
 - 框架介绍：[12 个政治维度](https://12axespoliticaltest.org/#axes)
